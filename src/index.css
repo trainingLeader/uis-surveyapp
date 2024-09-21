@@ -1,0 +1,12 @@
+.header {
+  background-color: #00008B;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 0.5rem;
+  margin-bottom: 10px;
+}
+.subheader {
+  background-color: #ffffff;
+  padding: 10px;
+  margin-bottom: 20px;
+}
